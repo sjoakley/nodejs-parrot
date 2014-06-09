@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-parrot",
+  "version": "0.0.1",
+  "dependencies": {
+    "config": "0.4.x",
+    "restify": "2.8.x",
+    "yaml": "0.2.3"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
